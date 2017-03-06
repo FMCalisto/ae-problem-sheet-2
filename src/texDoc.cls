@@ -57,7 +57,7 @@
 	}
 	{\begin{center}
 	\LARGE\bf
-	P\textsc{roblem} S\textsc{heet} \textsc{\# 1}
+	H\textsc{omework}
 	\end{center}}
 	% To, From, Subject Block
 	\begin{description}
